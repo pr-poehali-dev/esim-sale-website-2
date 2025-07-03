@@ -137,7 +137,7 @@ const Index = () => {
             </div>
             <div className="relative">
               <img
-                src="/img/2d8d94fb-5953-48a8-b128-1a75db400165.jpg"
+                src="/img/fbdfe539-4405-4932-a0e0-4f3948a0ce24.jpg"
                 alt="Глобальная сеть eSIM"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />
